@@ -83,7 +83,7 @@ a[data-icon]:before {
   display:block;
   width:250px;
   height:250px;
-  background-image: url('assets/images/thumbs.png');
+  background-image: url('assets/images/thumbs.jpg');
   background-repeat: no-repeat;
   border-radius:5px;
   overflow:hidden;
